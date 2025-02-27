@@ -1,0 +1,1 @@
+This is an exercise on HTML and JavaScript, to create a To-Do list webpage in which one can append the tasks that they need to complete. The tech used in this has been just simple HTML, JavaScript and CSS
